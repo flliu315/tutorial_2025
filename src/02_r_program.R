@@ -502,3 +502,9 @@ library(dplyr)
 data %>%
   filter(x > 1) %>%
   summarise(mean_y = mean(y))
+
+##############################################
+####### VI. Link Rstudio with github ########
+##############################################
+# https://happygitwithr.com/rstudio-git-github
+# Link your recol to a tutorial_26
